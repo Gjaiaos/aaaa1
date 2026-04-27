@@ -1,0 +1,42 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "commandDisabled": [
+        "autodown"
+    ],
+    "eventDisabled": [],
+    "PASTEBIN_API_KEY": "Rm8ey1VscZz34AOieKIh2tkNCoxGY5ZK",
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "",
+    "BOTNAME": "🌌",
+    "PREFIX": ".",
+    "BOXADMIN": "",
+    "ADMINBOT": [
+        "100003516351912"
+    ],
+    "NDH": [
+        "100003516351912"
+    ],
+    "version": "3.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    }
+}
