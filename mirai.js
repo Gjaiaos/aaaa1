@@ -4,7 +4,7 @@ const { readdirSync, readFileSync, writeFileSync } = require("fs-extra");
 
 const { join, resolve } = require("path");
 
-const login = require("fca-unofficial");
+const login = require("fca-horizon-remake");
 
 const fs = require("fs-extra");
 
